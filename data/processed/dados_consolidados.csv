@@ -12,11 +12,11 @@ Goiás,2023,MVI,1636,22.489632568067226
 Maranhão,2023,MVI,1897,27.087485581661273
 Mato Grosso,2023,MVI,1159,30.674448819324848
 Mato Grosso do Sul,2023,MVI,601,20.882492028343208
-Minas Gerais (4),2023,MVI,3050,14.354696840333553
+Minas Gerais,2023,MVI,3050,14.354696840333553
 Pará,2023,MVI,2745,31.85888775922341
 Paraíba,2023,MVI,1064,25.79726645957733
 Paraná,2023,MVI,2263,19.25324629470722
-Pernambuco (4),2023,MVI,3641,38.26797525414676
+Pernambuco,2023,MVI,3641,38.26797525414676
 Piauí,2023,MVI,737,21.896198944644805
 Rio de Janeiro,2023,MVI,4270,24.805660430957392
 Rio Grande do Norte,2023,MVI,1042,30.323507003798877
@@ -24,7 +24,7 @@ Rio Grande do Sul,2023,MVI,1982,17.661276323945234
 Rondônia,2023,MVI,455,26.14559360553482
 Roraima,2023,MVI,177,25.45773584362909
 Santa Catarina,2023,MVI,674,8.502358710729572
-São Paulo (5),2023,MVI,3480,7.589872928515392
+São Paulo,2023,MVI,3480,7.589872928515392
 Sergipe,2023,MVI,689,30.192892706992215
 Tocantins,2023,MVI,430,27.437625662730323
 Brasil,2024,MVI,44127,20.757466175095697
@@ -40,11 +40,11 @@ Goiás,2024,MVI,1379,18.760671917750166
 Maranhão,2024,MVI,2129,30.36674007553887
 Mato Grosso,2024,MVI,1142,29.76749811476856
 Mato Grosso do Sul,2024,MVI,544,18.746370905908034
-Minas Gerais (4),2024,MVI,3214,15.073144379384386
+Minas Gerais,2024,MVI,3214,15.073144379384386
 Pará,2024,MVI,2560,29.546509553102116
 Paraíba,2024,MVI,1060,25.57273271186768
 Paraná,2024,MVI,2170,18.351471267896386
-Pernambuco (4),2024,MVI,3453,36.19865292368857
+Pernambuco,2024,MVI,3453,36.19865292368857
 Piauí,2024,MVI,685,20.292412178291208
 Rio de Janeiro,2024,MVI,3809,22.120040681362294
 Rio Grande do Norte,2024,MVI,833,24.1724561101614
@@ -52,7 +52,7 @@ Rio Grande do Sul,2024,MVI,1687,15.022375503287424
 Rondônia,2024,MVI,455,26.05617711786612
 Roraima,2024,MVI,133,18.554868699889646
 Santa Catarina,2024,MVI,685,8.50040348995544
-São Paulo (5),2024,MVI,3751,8.159102454356336
+São Paulo,2024,MVI,3751,8.159102454356336
 Sergipe,2024,MVI,522,22.784044359923303
 Tocantins,2024,MVI,312,19.780111098290668
 Brasil,2023,Latrocínio - vítimas,1002,0.47332211537875607
@@ -65,7 +65,7 @@ Ceará,2023,Latrocínio - vítimas,24,0.2609639660955615
 Distrito Federal,2023,Latrocínio - vítimas,19,0.6402603096231462
 Espírito Santo,2023,Latrocínio - vítimas,32,0.7850703177670245
 Goiás,2023,Latrocínio - vítimas,16,0.21994750677816355
-Maranhão (3),2023,Latrocínio - vítimas,54,0.771072336009335
+Maranhão,2023,Latrocínio - vítimas,54,0.771072336009335
 Mato Grosso,2023,Latrocínio - vítimas,15,0.39699459213966587
 Mato Grosso do Sul,2023,Latrocínio - vítimas,6,0.2084774578536759
 Minas Gerais,2023,Latrocínio - vítimas,75,0.3529843485327923
@@ -74,8 +74,8 @@ Paraíba,2023,Latrocínio - vítimas,25,0.606138779595332
 Paraná,2023,Latrocínio - vítimas,51,0.4338999385903969
 Pernambuco,2023,Latrocínio - vítimas,87,0.9143954537519275
 Piauí,2023,Latrocínio - vítimas,21,0.6239079753562292
-Rio de Janeiro (3),2023,Latrocínio - vítimas,65,0.37760373021363713
-Rio Grande do Norte (3),2023,Latrocínio - vítimas,32,0.9312401383124416
+Rio de Janeiro,2023,Latrocínio - vítimas,65,0.37760373021363713
+Rio Grande do Norte,2023,Latrocínio - vítimas,32,0.9312401383124416
 Rio Grande do Sul,2023,Latrocínio - vítimas,42,0.37425509869106954
 Rondônia,2023,Latrocínio - vítimas,7,0.4022399016236126
 Roraima,2023,Latrocínio - vítimas,9,1.29446114459131
@@ -93,7 +93,7 @@ Ceará,2024,Latrocínio - vítimas,41,0.44402780437131295
 Distrito Federal,2024,Latrocínio - vítimas,8,0.26820275323536336
 Espírito Santo,2024,Latrocínio - vítimas,39,0.9507258304163521
 Goiás,2024,Latrocínio - vítimas,18,0.2448818669467027
-Maranhão (3),2024,Latrocínio - vítimas,62,0.8843296781039971
+Maranhão,2024,Latrocínio - vítimas,62,0.8843296781039971
 Mato Grosso,2024,Latrocínio - vítimas,20,0.5213222086649486
 Mato Grosso do Sul,2024,Latrocínio - vítimas,22,0.7581252939889279
 Minas Gerais,2024,Latrocínio - vítimas,55,0.2579411763740327
@@ -102,8 +102,8 @@ Paraíba,2024,Latrocínio - vítimas,16,0.3860035126319649
 Paraná,2024,Latrocínio - vítimas,46,0.3890173632825962
 Pernambuco,2024,Latrocínio - vítimas,77,0.8072100420283868
 Piauí,2024,Latrocínio - vítimas,19,0.5628552283029677
-Rio de Janeiro (3),2024,Latrocínio - vítimas,99,0.5749236092031681
-Rio Grande do Norte (3),2024,Latrocínio - vítimas,23,0.6674267593441923
+Rio de Janeiro,2024,Latrocínio - vítimas,99,0.5749236092031681
+Rio Grande do Norte,2024,Latrocínio - vítimas,23,0.6674267593441923
 Rio Grande do Sul,2024,Latrocínio - vítimas,30,0.2671436070531255
 Rondônia,2024,Latrocínio - vítimas,10,0.5726632333596949
 Roraima,2024,Latrocínio - vítimas,6,0.8370617458596833
@@ -121,7 +121,7 @@ Ceará,2023,Latrocínio - ocorrências,24,0.2609639660955615
 Distrito Federal,2023,Latrocínio - ocorrências,19,0.6402603096231462
 Espírito Santo,2023,Latrocínio - ocorrências,31,0.760536870336805
 Goiás,2023,Latrocínio - ocorrências,15,0.20620078760452834
-Maranhão (3),2023,Latrocínio - ocorrências,54,0.771072336009335
+Maranhão,2023,Latrocínio - ocorrências,54,0.771072336009335
 Mato Grosso,2023,Latrocínio - ocorrências,13,0.3440619798543771
 Mato Grosso do Sul,2023,Latrocínio - ocorrências,5,0.17373121487806326
 Minas Gerais,2023,Latrocínio - ocorrências,75,0.3529843485327923
@@ -130,8 +130,8 @@ Paraíba,2023,Latrocínio - ocorrências,24,0.5818932284115188
 Paraná,2023,Latrocínio - ocorrências,49,0.41688425472410684
 Pernambuco,2023,Latrocínio - ocorrências,85,0.8933748686082049
 Piauí,2023,Latrocínio - ocorrências,21,0.6239079753562292
-Rio de Janeiro (3),2023,Latrocínio - ocorrências,65,0.37760373021363713
-Rio Grande do Norte (3),2023,Latrocínio - ocorrências,32,0.9312401383124416
+Rio de Janeiro,2023,Latrocínio - ocorrências,65,0.37760373021363713
+Rio Grande do Norte,2023,Latrocínio - ocorrências,32,0.9312401383124416
 Rio Grande do Sul,2023,Latrocínio - ocorrências,42,0.37425509869106954
 Rondônia,2023,Latrocínio - ocorrências,7,0.4022399016236126
 Roraima,2023,Latrocínio - ocorrências,9,1.29446114459131
@@ -149,7 +149,7 @@ Ceará,2024,Latrocínio - ocorrências,41,0.44402780437131295
 Distrito Federal,2024,Latrocínio - ocorrências,8,0.26820275323536336
 Espírito Santo,2024,Latrocínio - ocorrências,36,0.8775930742304788
 Goiás,2024,Latrocínio - ocorrências,17,0.23127731878299698
-Maranhão (3),2024,Latrocínio - ocorrências,62,0.8843296781039971
+Maranhão,2024,Latrocínio - ocorrências,62,0.8843296781039971
 Mato Grosso,2024,Latrocínio - ocorrências,18,0.4691899877984537
 Mato Grosso do Sul,2024,Latrocínio - ocorrências,17,0.585824090809626
 Minas Gerais,2024,Latrocínio - ocorrências,54,0.25325133680359574
@@ -158,8 +158,8 @@ Paraíba,2024,Latrocínio - ocorrências,16,0.3860035126319649
 Paraná,2024,Latrocínio - ocorrências,45,0.3805604640808006
 Pernambuco,2024,Latrocínio - ocorrências,77,0.8072100420283868
 Piauí,2024,Latrocínio - ocorrências,19,0.5628552283029677
-Rio de Janeiro (3),2024,Latrocínio - ocorrências,99,0.5749236092031681
-Rio Grande do Norte (3),2024,Latrocínio - ocorrências,23,0.6674267593441923
+Rio de Janeiro,2024,Latrocínio - ocorrências,99,0.5749236092031681
+Rio Grande do Norte,2024,Latrocínio - ocorrências,23,0.6674267593441923
 Rio Grande do Sul,2024,Latrocínio - ocorrências,30,0.2671436070531255
 Rondônia,2024,Latrocínio - ocorrências,10,0.5726632333596949
 Roraima,2024,Latrocínio - ocorrências,6,0.8370617458596833
