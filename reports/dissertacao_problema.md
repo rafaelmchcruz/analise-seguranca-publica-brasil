@@ -6,7 +6,7 @@ A segurança pública é uma questão de grande relevância no Brasil, considera
 
 Diante desse cenário, torna-se importante analisar dados relacionados à criminalidade para compreender como diferentes indicadores de violência se distribuem entre os estados brasileiros e como esses indicadores evoluíram ao longo dos anos.
 
-Neste projeto, serão analisados dados do **19º Anuário Brasileiro de Segurança Pública**, referentes aos anos de 2023 e 2024. A análise contemplará indicadores de **Mortes Violentas Intencionais (MVI), latrocínio, roubo e furto de celulares, homicídios de mulheres e feminicídios**.
+Neste projeto, serão analisados dados do **19º Anuário Brasileiro de Segurança Pública**, referentes aos anos de 2023 e 2024. A análise contemplará indicadores de **Mortes Violentas Intencionais (MVI), latrocínio, roubo e furto de celulares, e feminicídios**.
 
 O problema central deste projeto pode ser definido pela seguinte questão:
 

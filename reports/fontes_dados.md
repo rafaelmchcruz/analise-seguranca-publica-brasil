@@ -32,7 +32,7 @@ Foram selecionadas quatro tabelas do Anuário:
 * **T01 — Mortes Violentas Intencionais (MVI):** informações sobre as ocorrências e taxas de MVI em 2023 e 2024.
 * **T04 — Latrocínio:** dados sobre o número de vítimas e o número de ocorrências, incluindo suas respectivas taxas.
 * **T13 — Roubo e furto de celulares:** informações sobre roubos, furtos e o total combinado desses registros.
-* **T24 — Homicídios de mulheres e feminicídios:** dados sobre homicídios de mulheres, feminicídios, taxas e proporção de feminicídios.
+* **T24 — Feminicídios:** dados sobre feminicídios, taxas e proporção.
 
 **Método de acesso e coleta**
 
